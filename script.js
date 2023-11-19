@@ -162,6 +162,7 @@ function timer() {
             gameOver();
         }
     }, 1000)  // Run every 1000 ms (or 1 second)
+    
 }
 
 // Check Function: Tests if we have run out of quesitons//
