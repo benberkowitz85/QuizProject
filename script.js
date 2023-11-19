@@ -26,6 +26,8 @@ let score = document.getElementById("user-score");
 let startBtn = document.getElementById("start");
 startBtn.addEventListener("click", newGame);
 
+
+
 // Get each container <div>
 let welcomeDiv = document.querySelector(".welcome-container");
 let questionDiv = document.querySelector(".questions-container");
